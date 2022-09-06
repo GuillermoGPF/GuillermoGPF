@@ -16,31 +16,28 @@ From my previous work activity I have learned to be decisive, pay attention to d
 🎮 I also create videogames in Canvas with javaScript (object oriented programming)
 
 ### 🛸 Technologies and 🛠 Tools:
-
-<div align="center" width="100%">
-    | 🛸Technologies:     |    🛠 Tools:        |
-    | ------------------- | ------------------- |
-    | HTML5               | Visual Studio Code  |
-    | CSS3                | Git                 |
-    | JavaScript (ES6)    | npm                 |
-    | Bootstrap           | GitHub              |
-    | MongoDB             | Slack               |
-    | NodeJS              | Discord             |
-    | React               | Instagram           |
-    | ExpressJS           | Notion              |
-    | Mongoose            | Calendly            |
-    | Json                | Postman             |
-    | Json Web Token      | Google Chrome       |
-    | PHP                 | Google Drive        |
-    |                     | Google Calendar     |
-    |                     | Firefox             |
-    |                     | Adobe Photoshop CS6 |
-    |                     | Office              |
-    |                     | Canva               |
-    |                     | Figma               |
-    |                     | Netlify             |
-    |                     | Heroku              |
-</div>
+| 🛸Technologies:     |    🛠 Tools:        |
+| ------------------- | ------------------- |
+| HTML5               | Visual Studio Code  |
+| CSS3                | Git                 |
+| JavaScript (ES6)    | npm                 |
+| Bootstrap           | GitHub              |
+| MongoDB             | Slack               |
+| NodeJS              | Discord             |
+| React               | Instagram           |
+| ExpressJS           | Notion              |
+| Mongoose            | Calendly            |
+| Json                | Postman             |
+| Json Web Token      | Google Chrome       |
+| PHP                 | Google Drive        |
+|                     | Google Calendar     |
+|                     | Firefox             |
+|                     | Adobe Photoshop CS6 |
+|                     | Office              |
+|                     | Canva               |
+|                     | Figma               |
+|                     | Netlify             |
+|                     | Heroku              |
 
 ### ☎ Contact me:
 - Phone:  +34 616 03 52 00
