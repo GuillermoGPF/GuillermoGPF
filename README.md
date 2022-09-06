@@ -42,7 +42,7 @@ From my previous work activity I have learned to be decisive, pay attention to d
 ### ☎ Contact me:
 - Phone:  +34 616 03 52 00
 - Calendly:  https://calendly.com/guiller-gpf
-- Email:  guiller.pg@gmail.com
+- Email:  guiller.gpf@gmail.com
 
 ### 📘 My Portfolio:
 - Portfolio: https://thebulliam.netlify.app
