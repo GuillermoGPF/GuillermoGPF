@@ -17,6 +17,7 @@ From my previous work activity I have learned to be decisive, pay attention to d
 
 ### 🛸 Technologies and 🛠 Tools:
 <div align="center">
+
 | 🛸Technologies:     |    🛠 Tools:        |
 | ------------------- | ------------------- |
 | HTML5               | Visual Studio Code  |
@@ -39,6 +40,7 @@ From my previous work activity I have learned to be decisive, pay attention to d
 |                     | Figma               |
 |                     | Netlify             |
 |                     | Heroku              |
+
 </div>
 
 ### ☎ Contact me:
