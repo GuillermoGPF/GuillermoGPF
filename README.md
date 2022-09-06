@@ -1,5 +1,5 @@
-<div id="header" align="center">
-    <img src="./logo.png" alt="Logo The Bulliam" width="100">
+<div align="center">
+    <img src="./logo.png" alt="Logo The Bulliam" width="200">
 
 ## 👋 Hi there, my name is Guillermo Pérez | The Bulliam
 
@@ -17,30 +17,30 @@ From my previous work activity I have learned to be decisive, pay attention to d
 
 ### 🛸 Technologies and 🛠 Tools:
 
-| 🛸Technologies:     |    🛠 Tools:        |
-| ------------------- | ------------------- |
-| HTML5               | Visual Studio Code  |
-| CSS3                | Git                 |
-| JavaScript (ES6)    | npm                 |
-| Bootstrap           | GitHub              |
-| MongoDB             | Slack               |
-| NodeJS              | Discord             |
-| React               | Instagram           |
-| ExpressJS           | Notion              |
-| Mongoose            | Calendly            |
-| Json                | Postman             |
-| Json Web Token      | Google Chrome       |
-| PHP                 | Google Drive        |
-|                     | Google Calendar     |
-|                     | Firefox             |
-|                     | Adobe Photoshop CS6 |
-|                     | Office              |
-|                     | Canva               |
-|                     | Figma               |
-|                     | Netlify             |
-|                     | Heroku              |
-| ------------------- | ------------------- |
-
+<div align="center" width="100%">
+    | 🛸Technologies:     |    🛠 Tools:        |
+    | ------------------- | ------------------- |
+    | HTML5               | Visual Studio Code  |
+    | CSS3                | Git                 |
+    | JavaScript (ES6)    | npm                 |
+    | Bootstrap           | GitHub              |
+    | MongoDB             | Slack               |
+    | NodeJS              | Discord             |
+    | React               | Instagram           |
+    | ExpressJS           | Notion              |
+    | Mongoose            | Calendly            |
+    | Json                | Postman             |
+    | Json Web Token      | Google Chrome       |
+    | PHP                 | Google Drive        |
+    |                     | Google Calendar     |
+    |                     | Firefox             |
+    |                     | Adobe Photoshop CS6 |
+    |                     | Office              |
+    |                     | Canva               |
+    |                     | Figma               |
+    |                     | Netlify             |
+    |                     | Heroku              |
+</div>
 
 ### ☎ Contact me:
 - Phone:  +34 616 03 52 00
