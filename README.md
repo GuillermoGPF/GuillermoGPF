@@ -16,6 +16,7 @@ From my previous work activity I have learned to be decisive, pay attention to d
 🎮 I also create videogames in Canvas with javaScript (object oriented programming)
 
 ### 🛸 Technologies and 🛠 Tools:
+<div align="center">
 | 🛸Technologies:     |    🛠 Tools:        |
 | ------------------- | ------------------- |
 | HTML5               | Visual Studio Code  |
@@ -38,6 +39,7 @@ From my previous work activity I have learned to be decisive, pay attention to d
 |                     | Figma               |
 |                     | Netlify             |
 |                     | Heroku              |
+</div>
 
 ### ☎ Contact me:
 - Phone:  +34 616 03 52 00
