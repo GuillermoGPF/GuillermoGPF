@@ -7,11 +7,9 @@
 
 
 ### 🚀 About Me
-I have been passionate about technology since I can remember. In recent years I have developed my professional activity in the field of air conditioning. What started as a hobby has become a profession, training me autonomously and more recently completing my formal training in web development at IronHack Madrid.
+I have been passionate about technology since I can remember. In recent years I have developed my professional activity in the field of air conditioning, and partly also as an entrepreneur. What started as a hobby has become a profession, learning independently and more recently completing my formal training in web development at IronHack Madrid.
 
-From my previous work activity I have learned to be decisive, pay attention to details, correct mistakes, face challenges under pressure and work in a team in an agile and effective way. All this has been of great help to face the intensive training that I have done and I believe that it can help me to face resolutely any challenge in the digital industry.
-
-💻 My current goal is to continue developing my career in this and other fields, such as blockchain technology and the metaverse, with a view to web 3.0.
+From my previous work activities I have learned to be decisive, pay attention to details, analyze and correct mistakes, negotiate, sell, face challenges under pressure and work as a team in an agile and effective way.. All this has been a great help to face the intensive training I have done and I think it can help me to face any challenge resolutely in the digital industry.
 
 🎮 I also create videogames in Canvas with javaScript (object oriented programming)
 
@@ -29,24 +27,26 @@ From my previous work activity I have learned to be decisive, pay attention to d
 | React               | Instagram           |
 | ExpressJS           | Notion              |
 | Mongoose            | Calendly            |
-| Json                | Postman             |
-| Json Web Token      | Google Chrome       |
-| PHP                 | Google Drive        |
-|                     | Google Calendar     |
-|                     | Firefox             |
-|                     | Adobe Photoshop CS6 |
-|                     | Office              |
-|                     | Canva               |
-|                     | Figma               |
+| JSON                | Postman             |
+| JSON Web Token      | Google Chrome       |
+| React Hooks         | Google Drive        |
+| React Router        | Google Calendar     |
+| jQuery              | Firefox             |
+| PHP                 | Adobe Photoshop CS6 |
+| Typescript          | Office              |
+| Tailwind            | Canva               |
+| OOP(HTML Videogames)| Figma               |
 |                     | Netlify             |
 |                     | Heroku              |
+|                     | Nodemailer          |
+|                     | Cloudinary          |
 
 </div>
 
 ### ☎ Contact me:
 - Phone:  +34 616 03 52 00
 - Calendly:  https://calendly.com/guiller-gpf
-- Email:  guiller.gpf@gmail.com
+- Email:  guiller.gpf@gmail.com | guillermo@thebulliam.com
 
 ### 📘 My Portfolio:
-- Portfolio: https://thebulliam.netlify.app
+- Portfolio: https://thebulliam.com
