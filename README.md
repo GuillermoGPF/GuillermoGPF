@@ -48,15 +48,15 @@ From my previous work activities I have learned to be decisive, pay attention to
 </div>
 
 ### ☎ Contact me:
-- Phone & WhatsApp:  +34 616 03 52 00
-- Calendly:  https://calendly.com/guiller-gpf
-- Email:  guiller.gpf@gmail.com | guillermo@thebulliam.com
+- Phone & WhatsApp: +34 616 03 52 00
+- Email: guiller.gpf@gmail.com | guillermo@thebulliam.com
+- [Calendly](https://calendly.com/guiller-gpf)
 
 ### 📘 My Portfolio:
-- Portfolio: https://thebulliam.com
+- [The Bulliam](https://thebulliam.com)
 
 ### 🎡 Social Media
-- Linkedin: https://www.linkedin.com/in/guillermo-perez-fuentes/
-- Discord: https://discord.com/users/thebulliam#2993
-- Instagram: https://instagram.com/thebulliam
-- Spotify playlist: https://open.spotify.com/playlist/3aTK1jwbHit8QSz3UMYXJa?si=42ee46296fd14ba3
+- [LinkedIn](https://www.linkedin.com/in/guillermo-perez-fuentes/)
+- [Discord](https://discord.com/users/thebulliam#2993)
+- [Instagram](https://instagram.com/thebulliam)
+- [Spotify playlist](https://open.spotify.com/playlist/3aTK1jwbHit8QSz3UMYXJa?si=42ee46296fd14ba3)
