@@ -60,9 +60,3 @@ From my previous work activities I have learned to be decisive, pay attention to
 - [Discord](https://discord.com/users/thebulliam#2993)
 - [Instagram](https://instagram.com/thebulliam)
 - [Spotify playlist](https://open.spotify.com/playlist/3aTK1jwbHit8QSz3UMYXJa?si=42ee46296fd14ba3)
-
-### 📜 Docs
-<div align="center">
-    <img src="./curriculum.jpg" alt="Currículum Vitae" width="400" margin-right="10px">
-    <img src="./business-card.jpg" alt="Business Card The Bulliam" width="400" margin-left="10px">
-</div>
