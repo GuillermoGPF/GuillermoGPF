@@ -62,11 +62,7 @@ From my previous work activities I have learned to be decisive, pay attention to
 - [Spotify playlist](https://open.spotify.com/playlist/3aTK1jwbHit8QSz3UMYXJa?si=42ee46296fd14ba3)
 
 ### 📜 Docs
-<div align="center" display="flex" justify-content="center" align-items="center">
-    <a href="./curriculum-vitae.pdf" target='_blank' rel='noopener noreferrer' download="curriculum-vitae.pdf">
-        <img src="./curriculum.jpg" alt="Currículum Vitae" width="300">
-    </a>
-    <a href="./business-card.jpg" target='_blank' rel='noopener noreferrer' download="business-card.jpg">
-        <img src="./business-card.jpg" alt="Business Card The Bulliam" width="300">
-    </a>
+<div align="center" display="flex" justify-content="space-between" align-items="center">
+    <img src="./curriculum.jpg" alt="Currículum Vitae" width="400">
+    <img src="./business-card.jpg" alt="Business Card The Bulliam" width="400">
 </div>
