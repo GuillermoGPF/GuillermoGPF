@@ -63,6 +63,6 @@ From my previous work activities I have learned to be decisive, pay attention to
 
 ### 📜 Docs
 <div align="center">
-    <img src="./curriculum.jpg" alt="Currículum Vitae" width="400" margin-left="10px">
-    <img src="./business-card.jpg" alt="Business Card The Bulliam" width="400" margin-right="10px">
+    <img src="./curriculum.jpg" alt="Currículum Vitae" width="400" margin-right="10px">
+    <img src="./business-card.jpg" alt="Business Card The Bulliam" width="400" margin-left="10px">
 </div>
