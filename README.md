@@ -27,23 +27,27 @@ From my previous work activities I have learned to be decisive, pay attention to
 | React            | Instagram          |
 | ExpressJS        | Linkedin           |
 | Mongoose         | Notion             |
-| JSON             | Calendly           |
-| JSON Web Token   | Postman            |
-| React Hooks      | Gmail              |
-| React Router     | Google Chrome      |
-| jQuery           | Google Drive       |
-| PHP              | Google Calendar    |
-| Typescript       | Firefox            |
-| Tailwind         | Youtube            |
-| OOP              | Adobe Photoshop    |
-| Bcryptjs         | Office             |
-| Axios            | Canva              |
-| Fontawesome      | Figma              |
-| Dotenv           | Netlify            |
-| Nodemailer       | Heroku             |
-| Cloudinary       | Habitica           |
-|                  | Hostinger          |
-|                  | PayPal             |
+| Handlebars       | Calendly           |
+| JSON             | Postman            |
+| JSON Web Token   | Gmail              |
+| React Hooks      | Google Chrome      |
+| React Router     | Google Drive       |
+| jQuery           | Google Calendar    |
+| PHP              | Firefox            |
+| Nodemon          | Youtube            |
+| Typescript       | Adobe Photoshop    |
+| Tailwind         | Office             |
+| OOP              | Canva              |
+| Bcryptjs         | Figma              |
+| Axios            | Netlify            |
+| Fontawesome      | Vercel             |
+| Dotenv           | Habitica           |
+| Nodemailer       | Hostinger          |
+| Cloudinary       | PayPal             |
+|                  | Stripe             |
+|                  | WordPress          |
+|                  | WooCommerce        |
+|                  | Udemy              |
 
 </div>
 
