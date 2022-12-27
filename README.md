@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./logo.png" alt="Logo The Bulliam" width="200">
+    <img src="./logo.png" alt="Logo The Bulliam">
 
 ## 👋 Hi there, my name is Guillermo Pérez | The Bulliam
 
