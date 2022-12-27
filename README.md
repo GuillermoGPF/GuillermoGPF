@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="./logo.png" alt="Logo The Bulliam">
+    <img src="./brand.png" alt="Logo The Bulliam">
 
-## 👋 Hi there, my name is Guillermo Pérez | The Bulliam
+## 👋 Hi there, I'm Guillermo Pérez | The Bulliam
 
 </div>
 
@@ -33,21 +33,21 @@ From my previous work activities I have learned to be decisive, pay attention to
 | React Hooks      | Google Chrome      |
 | React Router     | Google Drive       |
 | jQuery           | Google Calendar    |
-| PHP              | Firefox            |
-| Nodemon          | Youtube            |
-| Typescript       | Adobe Photoshop    |
-| Tailwind         | Office             |
-| OOP              | Canva              |
-| Bcryptjs         | Figma              |
-| Axios            | Netlify            |
-| Fontawesome      | Vercel             |
-| Dotenv           | Habitica           |
-| Nodemailer       | Hostinger          |
-| Cloudinary       | PayPal             |
-|                  | Stripe             |
-|                  | WordPress          |
-|                  | WooCommerce        |
-|                  | Udemy              |
+| jQuery UI        | Firefox            |
+| PHP              | Youtube            |
+| Nodemon          | Adobe Photoshop    |
+| Typescript       | Office             |
+| Tailwind         | Canva              |
+| OOP              | Figma              |
+| Bcryptjs         | Netlify            |
+| Axios            | Vercel             |
+| Fontawesome      | Habitica           |
+| Dotenv           | Hostinger          |
+| Nodemailer       | PayPal             |
+| Cloudinary       | Stripe             |
+| AOS.js           | WordPress          |
+| Chart.js         | WooCommerce        |
+| Api Rest         | Udemy              |
 
 </div>
 
