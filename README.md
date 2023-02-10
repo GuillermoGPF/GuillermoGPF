@@ -16,38 +16,23 @@ From my previous work activities I have learned to be decisive, pay attention to
 ### 🛸 Technologies and 🛠 Tools:
 <div align="center">
 
-| 🛸Technologies:  |    🛠 Tools:       |
-| ---------------- | ------------------ |
-| HTML5            | Visual Studio Code |
-| CSS3             | Git                |
-| JavaScript (ES6) | npm                |
-| Bootstrap        | GitHub             |
-| MongoDB          | Slack              |
-| NodeJS           | Discord            |
-| React            | Instagram          |
-| ExpressJS        | Linkedin           |
-| Mongoose         | Notion             |
-| Handlebars       | Calendly           |
-| JSON             | Postman            |
-| JSON Web Token   | Gmail              |
-| React Hooks      | Google Chrome      |
-| React Router     | Google Drive       |
-| jQuery           | Google Calendar    |
-| jQuery UI        | Firefox            |
-| PHP              | Youtube            |
-| Nodemon          | Adobe Photoshop    |
-| Typescript       | Office             |
-| Tailwind         | Canva              |
-| OOP              | Figma              |
-| Bcryptjs         | Netlify            |
-| Axios            | Vercel             |
-| Fontawesome      | Habitica           |
-| Dotenv           | Hostinger          |
-| Nodemailer       | PayPal             |
-| Cloudinary       | Stripe             |
-| AOS.js           | WordPress          |
-| Chart.js         | WooCommerce        |
-| Api Rest         | Udemy              |
+|  ☕ Languages:  |    💻 DevTools:    | 🛸 Dependencies: |    ⚔️ Tools:    |
+| ---------------- | ------------------ | ----------------- | --------------- |
+| HTML5            | Visual Studio Code | Mongoose          | Slack           |
+| CSS3             | Git                | JSON Web Token    | Discord         |
+| JavaScript (ES6) | npm                | React Hooks       | Instagram       |
+| Bootstrap        | GitHub             | React Router      | Linkedin        |
+| MongoDB          | Postman            | jQuery UI         | Notion          |
+| NodeJS           | Google Chrome      | Nodemon           | Calendly        |
+| React            | Youtube            | Bcryptjs          | Gmail           |
+| ExpressJS        | Adobe Photoshop    | Axios             | Google Drive    |
+| Handlebars       | Pixabay            | Fontawesome       | Google Calendar |
+| JSON             | Figma              | Dotenv            | Office          |
+| jQuery           | Netlify            | Nodemailer        | Canva           |
+| PHP              | Railway            | Cloudinary        | Habitica        |
+| Typescript       | Hostinger          | AOS.js            | PayPal          |
+| Tailwind         | WordPress          | Chart.js          | Stripe          |
+| OOP              | WooCommerce        | Api Rest          | Firefox         |
 
 </div>
 
