@@ -18,27 +18,27 @@ From my previous work activities I have learned to be decisive, pay attention to
 
 |  ☕ Languages:  |    💻 DevTools:    | 🛸 Dependencies: |    ⚔️ Tools:    |
 | ---------------- | ------------------ | ----------------- | --------------- |
-| HTML5            | Visual Studio Code | Mongoose          | Slack           |
-| CSS3             | Git                | JSON Web Token    | Discord         |
+| HTML5            | Visual Studio Code | Mongoose          | ChatGPT         |
+| CSS3             | Git                | JSON Web Token    | DALL-E 2        |
 | JavaScript (ES6) | npm                | React Hooks       | Instagram       |
 | Bootstrap        | GitHub             | React Router      | Linkedin        |
 | MongoDB          | Postman            | jQuery UI         | Twitter         |
-| NodeJS           | Google Chrome      | Nodemon           | Notion          |
+| NodeJS           | Mongo Atlas        | Nodemon           | Notion          |
 | React            | Youtube            | Bcryptjs          | Gmail           |
 | ExpressJS        | Adobe Photoshop    | Axios             | Google Drive    |
-| Handlebars       | Pixabay            | FontAwesome       | Google Calendar |
-| JSON             | Figma              | Dotenv            | Office          |
-| jQuery           | Netlify            | Nodemailer        | Canva           |
-| PHP              | Railway            | Cloudinary        | Habitica        |
-| Typescript       | Hostinger          | AOS.js            | ChatGPT         |
-| Tailwind         | Generative AI      | Chart.js          | DALL-E 2        |
-| OOP              | Platzi             | Api Rest          | Stripe          |
+| Handlebars       | Brave              | FontAwesome       | Google Calendar |
+| JSON             | Netlify            | Dotenv            | Office          |
+| jQuery           | Render             | Nodemailer        | Canva           |
+| PHP              | Hostinger          | Cloudinary        | Slack           |
+| Typescript       | Generative AI      | AOS.js            | Stripe          |
+| Tailwind         | Platzi             | Chart.js          | DeepL           |
+| OOP              | WordPress          | Api Rest          | WooCommerce     |
 
 </div>
 
 ### ☎ Contact me:
 - Phone & WhatsApp: +34 616 03 52 00
-- Email: guiller.gpf@gmail.com | guillermo@thebulliam.com
+- Email: guiller.gpf@gmail.com
 
 ### 💻 My Website:
 - [The Bulliam](https://thebulliam.com)
@@ -46,6 +46,4 @@ From my previous work activities I have learned to be decisive, pay attention to
 ### 🎡 Social Media
 - [LinkedIn](https://www.linkedin.com/in/guillermo-perez-fuentes/)
 - [Twitter](https://twitter.com/thebulliam)
-- [Discord](https://discord.com/users/thebulliam)
 - [Instagram](https://instagram.com/thebulliam)
-- [Spotify playlist](https://open.spotify.com/playlist/3aTK1jwbHit8QSz3UMYXJa?si=42ee46296fd14ba3)
